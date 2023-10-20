@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Young+Serif&display=swap');
+
+h1 {
+  /* font-family: 'Pacifico', cursive; */
+  font-size: 3rem;
+  font-family: 'Young Serif', serif;
+}
+
+h2 {
+  /* font-family: 'Pacifico', cursive; */
+  font-size: 2rem;
+  font-family: 'Young Serif', serif;
+}

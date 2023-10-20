@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Young+Serif&display=swap');
+
+.first-img {
+  width: 80%;
+  height: auto;
+}
+
+.carousel-main {
+  margin-top: 1.22em;
+}
+
+.info-carrusel-one {
+  background-color: rgba(255, 228, 196, 0.767);
+  margin-top: 200px;
+  padding: 3%;
+}
+
+.info-carrusel-two {
+  background-color: rgba(255, 255, 255, 0.767);
+  margin-top: 200px;
+  padding: 3%;
+}
+
+.pharagraph-security-lock {
+  font-size: smaller;
+}
+
+h5 {
+  font-family: 'Pacifico', cursive;
+  font-size: 2.5em;
+}
+
+@media (max-width: 768px) {
+  h5 {
+    font-size: 0.9em;
+  }
+
+  p {
+    font-size: xx-small;
+  }
+
+  .pharagraph-security-lock {
+    font-size: 0.3em;
+  }
+}
